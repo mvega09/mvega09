@@ -40,6 +40,18 @@ Laboratorio **DevOps end-to-end** sobre Kubernetes (Minikube) con GitOps, IaC, m
 
 <sub>Explora el código fuente y levanta toda la plataforma con un solo script.</sub>
 
+### [terraform_with_localstack](https://github.com/mvega09/terraform_with_localstack)
+
+Laboratorio de **Infraestructura como Código** desplegando una arquitectura de red completa en **AWS real** con Terraform.
+
+- 🌐 **VPC** en `us-east-2` con 3 subredes públicas y 3 privadas en distintas zonas de disponibilidad
+- 🖥️ **Instancias EC2** distribuidas en subredes públicas y privadas
+- ⚖️ **Load Balancer** para distribución de tráfico HTTP
+- 🔒 **NAT Gateway** + grupos de seguridad para acceso controlado SSH/HTTP
+- 💰 Costo estimado de infraestructura activa: **~$0.18 USD / 4 horas**
+
+<sub>Ideal para aprender y practicar IaC en un entorno AWS real y reproducible.</sub>
+
 ---
 
 ## 📫 Conecta conmigo
