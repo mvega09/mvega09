@@ -6,7 +6,7 @@
 
 <p align="center">
    Estudiante de Ingeniería apasionado por DevOps, infraestructura como código y automatización.<br>
-  Construyo plataformas confiables, reproducibles y seguras desde el primer día.
+  Apasionado por la tecnología, la innovación y el aprendizaje continuo.
 </p>
 
 ---
@@ -21,8 +21,8 @@
   - Prometheus · Grafana
   - Python · FastAPI · PostgreSQL
 - 🔐 Aplico principios de **DevSecOps**: secretos cifrados, escaneo de vulnerabilidades y despliegues auditables.
-- 🌱 Siempre explorando nuevas herramientas del ecosistema cloud-native.
-- 🤝 Interesado en colaborar en proyectos de infraestructura, automatización y backend.
+- 🌱 Siempre explorando nuevas herramientas y metodologías.
+- 🤝 Interesado en colaborar en proyectos de infraestructura y automatización.
 
 ---
 
