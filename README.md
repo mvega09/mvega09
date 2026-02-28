@@ -19,7 +19,6 @@
   - Terraform · ArgoCD
   - GitHub Actions
   - Prometheus · Grafana
-  - Python · FastAPI · PostgreSQL
 - 🔐 Aplico principios de **DevSecOps**: secretos cifrados, escaneo de vulnerabilidades y despliegues auditables.
 - 🌱 Siempre explorando nuevas herramientas y metodologías.
 - 🤝 Interesado en colaborar en proyectos de infraestructura y automatización.
